@@ -18,4 +18,3 @@
   
   ##
   
-  ![Snake animation](https://github.com/thiiferreira/thiiferreira/blob/output/github-contribution-grid-snake.svg)
