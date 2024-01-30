@@ -1,7 +1,7 @@
 ### Opa, Bem Vindo ao meu GitHub... Me chamo Thiago Ferreira 😄👋🏻
 
 - 🔭 Hoje trabalho com Back-end
-- 💡 Estudante de análise e desenvolvimento de sistemas.
+- 🎓 Formado em análise e desenvolvimento de sistemas.
 
 <div align="center">
   <a href="https://github.com/thiiferreira">
